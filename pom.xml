@@ -20,6 +20,9 @@
   <modules>
     <module>test1</module>
     <module>test-dao1</module>
+    <module>test-api</module>
+    <module>test-runner</module>
+    <module>test-infra</module>
   </modules>
 
   <properties>
