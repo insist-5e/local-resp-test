@@ -8,7 +8,7 @@
     </parent>
 
     <artifactId>test-dao1</artifactId>
-    <name>Archetype - test-dao1</name>
+    <name>test-dao1</name>
     <url>http://maven.apache.org</url>
     <packaging>jar</packaging>
 
